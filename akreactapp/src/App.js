@@ -20,7 +20,7 @@ import ReqAuth from "./components/pages/ReqAuth";
 // const LazyAbout = React.lazy(() => import("./components/pages/About"));
 
 function App() {
-  console.log("master")
+  console.log("master branch")
   return (
     // <div className="App">
     //   <header className="App-header">
